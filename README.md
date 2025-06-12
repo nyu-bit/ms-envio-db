@@ -1,5 +1,5 @@
-CREATE DATABASE envios_db;
-USE envios_db;
+CREATE DATABASE envios;
+USE envios;
 
 
 CREATE TABLE envios (
